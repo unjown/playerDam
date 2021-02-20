@@ -1,7 +1,7 @@
 {
-  "name": "ExamplePlugin",
-  "author": "Anuke",
+  "name": "playerDamPlugin",
+  "author": "Unjown",
   "main": "example.ExamplePlugin",
-  "description": "A plugin to demonstrate some basic features.",
+  "description": "lol",
   "version": 1.0
 }
