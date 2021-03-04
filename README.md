@@ -1,8 +1,8 @@
 ### Setup
 
-Clone this repository first.
-To edit the plugin display name and other data, take a look at `plugin.json`.
-Edit the name of the project itself by going into `settings.gradle`.
+- Clone this repository first.
+- To edit the plugin display name and other data, take a look at `plugin.json`.
+- Edit the name of the project itself by going into `settings.gradle`.
 
 ### Basic Usage
 
@@ -11,7 +11,7 @@ Every main plugin class must extend `Plugin`. Make sure that `plugin.json` point
 
 Please note that the plugin system is in beta, and as such is subject to changes.
 
-### Building a Jar
+### Building a Jar file
 
 `gradlew jar` / `./gradlew jar`
 
@@ -23,11 +23,11 @@ Output jar should be in `build/libs`.
 Simply place the output jar from the step above in your server's `config/mods` directory and restart the server.
 List your currently installed plugins/mods by running the `mods` command.
 
-### usage 
-##### can use
+### Servers 
+##### This plugin can be use in
 - Alex
 - Omega
 - CZ
 - Subzero
 
-others please DM me (unjown[ALEX SERVER]#8364)
+others submission?, feel free to DM me (unjown[ALEX SERVER]#8364)
